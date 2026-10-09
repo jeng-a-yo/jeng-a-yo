@@ -20,6 +20,7 @@ Recipient of an **NSTC Undergraduate Student Research Project grant (ROC year 11
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f2937?style=flat&logo=python&logoColor=60a5fa" alt="Python" />
+  <img src="https://img.shields.io/badge/C-1f2937?style=flat&logo=c&logoColor=7dd3fc" alt="C" />
   <img src="https://img.shields.io/badge/PyTorch-1f2937?style=flat&logo=pytorch&logoColor=fb7185" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LaTeX-1f2937?style=flat&logo=latex&logoColor=5eead4" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Linux-1f2937?style=flat&logo=linux&logoColor=facc15" alt="Linux" />
