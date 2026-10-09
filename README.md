@@ -16,7 +16,7 @@
 
 ## Research focus
 
-Recipient of a **2025 NSTC Undergraduate Research Project grant**, exploring how visual detection and combinatorial optimization can work together. My current project connects YOLO-based geometric detection with QUBO formulations for graph partitioning.
+Recipient of an **NSTC Undergraduate Student Research Project grant (ROC year 114; 2025)**. My research explores image-based adjacency extraction and QUBO formulations for graph partitioning; the public repository contains prototype work in both areas.
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f2937?style=flat&logo=python&logoColor=60a5fa" alt="Python" />
@@ -30,13 +30,15 @@ Recipient of a **2025 NSTC Undergraduate Research Project grant**, exploring how
 
 | Project | What I'm exploring |
 | :-- | :-- |
-| [Graph Partitioning × QUBO × YOLO](https://github.com/jeng-a-yo/Graph-Partitioning-via-QUBO-Optimization-and-YOLO-Geometric-Detection) | A pipeline combining YOLO geometric detection and QUBO-based graph partitioning. |
-| [TSP-QUBO](https://github.com/jeng-a-yo/TSP-QUBO) | Encoding the Traveling Salesperson Problem as a quadratic unconstrained binary optimization model. |
-| [Handwritten Recognition](https://github.com/jeng-a-yo/Final-Project-Handeritten-recognizition) | A deep learning project for handwritten character recognition. |
+| [Graph Partitioning × QUBO × Computer Vision](https://github.com/jeng-a-yo/Graph-Partitioning-via-QUBO-Optimization-and-YOLO-Geometric-Detection) | Prototype experiments in image-based adjacency extraction and QUBO formulations for graph partitioning. |
+| [TSP-QUBO](https://github.com/jeng-a-yo/TSP-QUBO) | A GPS-style QUBO prototype whose sample tours are compared with Held–Karp dynamic programming and brute-force solvers. |
+| [Handwritten Digit Recognition](https://github.com/jeng-a-yo/Final-Project-Handeritten-recognizition) | An MNIST digit-recognition prototype using a small PyTorch CNN, with a Streamlit interface. |
 
 ## Teaching &amp; leadership
 
-- Teaching assistant for **Generative AI-Assisted Python Programming** and **Introduction to Computer Science** at NCKU.
+- **Teaching assistant · Generative AI-Assisted Python Programming** (ROC academic years 113-1 and 114-1): graded programming assignments, helped students debug, and assessed final projects.
+- **Teaching assistant · Introduction to Computer Science and Programming Languages**, NCKU Mathematics (113-2): prepared midterm questions and graded assignments.
+- **Teaching assistant · Digital Tools for Historical Research**, NCKU History (113-1): coordinated assignment submissions and supported students learning Obsidian extensions.
 - **Excellent Award**, national folk sports competition · **Level C folk sports coach**.
 
 ## GitHub snapshot
